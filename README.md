@@ -26,7 +26,14 @@
    </div>
 </div>
 
-<p align="center"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
+<div align="center">
+<a href="https://github.com/rathsamrith/github-stats">
+<img src="https://github.com/rathsamrith/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/rathsamrith/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/rathsamrith/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/rathsamrith/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+</a>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
